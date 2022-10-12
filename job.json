@@ -1,0 +1,10 @@
+[
+  {
+    "in": "pojedynek.mscz",
+    "out": [
+      "pojedynek.pdf",
+      "pojedynek.flac",
+      "pojedynek.mid"
+    ]
+  }
+]
