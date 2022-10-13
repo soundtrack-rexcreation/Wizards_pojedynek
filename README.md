@@ -1,6 +1,6 @@
 # Rex and the Wizards: pojedynek
 
-![GitHub Workflow status](https://img.shields.io/github/workflow/status/soundtrack-rexcreation/Wizards_pojedynek/workflow)
+![GitHub Workflow status](https://img.shields.io/github/workflow/status/soundtrack-rexcreation/Wizards_pojedynek/Release)
 ![Total download count](https://img.shields.io/github/downloads/soundtrack-rexcreation/Wizards_pojedynek/total)
 ![License](https://img.shields.io/github/license/soundtrack-rexcreation/Wizards_pojedynek)
 ![Latest release version](https://img.shields.io/github/v/release/soundtrack-rexcreation/Wizards_pojedynek)

@@ -1,6 +1,6 @@
 # Reksio i Czarodzieje: pojedynek
 
-![Status GitHub Workflow](https://img.shields.io/github/workflow/status/soundtrack-rexcreation/Wizards_pojedynek/workflow)
+![Status GitHub Workflow](https://img.shields.io/github/workflow/status/soundtrack-rexcreation/Wizards_pojedynek/Release)
 ![Łączna liczba pobrań](https://img.shields.io/github/downloads/soundtrack-rexcreation/Wizards_pojedynek/total?label=pobrania)
 ![Licencja](https://img.shields.io/github/license/soundtrack-rexcreation/Wizards_pojedynek?label=licencja)
 ![Ostatni numer wydania](https://img.shields.io/github/v/release/soundtrack-rexcreation/Wizards_pojedynek?label=wydanie)
